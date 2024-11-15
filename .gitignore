@@ -1,0 +1,21 @@
+# Flutter/Dart specific
+build/
+.android/
+.ios/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+*.iml
+*.hive
+*.log
+pubspec.lock
+
+# macOS
+.DS_Store
+
+# IDE settings
+.idea/
+.vscode/
+
+# Environment files
+.env
